@@ -1,0 +1,11 @@
+employeeId,name,department,hireDate,employeeType,baseSalary,hourlyRate,contractAmount,contractDuration,email,phone
+FT001,John Doe,Engineering,2024-01-15,FULL_TIME,75000.0,,,0,john.doe@company.com,555-0101
+FT002,Jane Smith,Marketing,2024-02-01,FULL_TIME,65000.0,,,0,jane.smith@company.com,555-0102
+PT001,Bob Johnson,Sales,2024-01-20,PART_TIME,0,25.50,,0,bob.j@company.com,555-0103
+PT002,Alice Brown,Customer Service,2024-02-15,PART_TIME,0,22.75,,0,alice.b@company.com,555-0104
+CON001,Tech Solutions Inc,IT,2024-01-01,CONTRACTOR,0,0,50000.0,12,contact@techsolutions.com,555-0201
+CON002,Consulting Group,Finance,2024-03-01,CONTRACTOR,0,0,30000.0,6,info@consultinggroup.com,555-0202
+FT003,Michael Wilson,Engineering,2023-11-10,FULL_TIME,82000.0,,,0,michael.w@company.com,555-0105
+FT004,Sarah Lee,HR,2023-12-05,FULL_TIME,58000.0,,,0,sarah.lee@company.com,555-0106
+PT003,David Miller,Operations,2024-02-20,PART_TIME,0,28.50,,0,david.m@company.com,555-0107
+CON003,Cloud Services Inc,IT,2024-02-01,CONTRACTOR,0,0,45000.0,9,admin@cloudservices.com,555-0203
